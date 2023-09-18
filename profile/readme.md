@@ -8,7 +8,7 @@
 ## $`Проекты`$  
 
 - [Мобильное приложение](https://github.com/OctoDiary/OctoDiary-kt)  
-- [API-бибилиотека](https://github.com/OctoDiary/OctoDiary-py)  
+- [API-библиотека](https://github.com/OctoDiary/OctoDiary-py)  
 - [Telegram-бот](https://github.com/OctoDiary/OctoDiary-tg)  
 
 ## $`Команда`$  
